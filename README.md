@@ -1,4 +1,4 @@
 # Machine-Learning
 
-Tugas01: *Association rules*, Algoritma Apriori
-Tugas02: Klasterisasi dan algoritmanya
+1. Tugas01: *Association rules*, Algoritma Apriori
+2. Tugas02: Klasterisasi dan algoritmanya
